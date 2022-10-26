@@ -1,0 +1,55 @@
+20221009	15:46:57	9cd4a832-73bf-402d-861b-43e75e434ac3	/img/test.png	GET
+20221009	15:46:57	4859ea5b-373f-42f3-83d2-3c23c96b63a5	/favicon.ico	GET
+20221009	15:47:10	88abe86d-7879-4893-b5e9-445e879d63c2	/img/test.png	GET
+20221009	15:47:16	1a567eb5-0814-4884-8736-ae1407a924ba	/img/haha.jpg	GET
+20221009	15:47:37	68610dc3-b9a5-48c3-a8ef-3fb052ed93d1	/img/haha.jpg	GET
+20221009	15:47:57	0bce7b2c-4322-4075-bd58-66aa44c3f8ec	/img/haha.jpg	GET
+20221009	15:49:23	145658a8-204e-4be3-afe0-16a01b7f2a0e	/	GET
+20221009	15:50:34	3a2300fa-6c6d-4fb5-bde6-926965b0106f	/	GET
+20221009	15:50:53	50ba99a4-cf3c-4210-bb91-b5d69ae715e2	/	GET
+20221009	15:50:53	61cc94db-5a8a-41fc-a811-87161b9e0ee2	/css/style.css	GET
+20221012	08:25:08	7f09a969-0b1f-4a19-b8cb-d14749d32291	/	GET
+20221012	08:25:08	d082b3fd-de17-4ec5-b1e4-4834d55bacc3	/css/style.css	GET
+20221012	08:25:08	6a80b61a-4173-4758-97c8-dec9ee22b0ba	/favicon.ico	GET
+20221012	08:25:35	67df073a-ed14-4e69-8ec3-133df403b9b9	/new-page.html	GET
+20221026	08:54:33	29af93ef-fb07-4a78-919c-c9ac60574779	GET	undefined	/
+20221026	08:54:33	91c68c6b-89a9-4890-96e8-dada958c79b3	GET	undefined	/css/style.css
+20221026	08:56:34	5eb89ef6-a6ab-4b20-9c47-c70cdeff6a0f	GET	undefined	/
+20221026	08:56:34	b8ef594c-86f3-4851-bc43-eaf95b62dc03	GET	undefined	/css/style.css
+20221026	08:57:18	f7957925-a616-4978-a9d2-65bd991209c5	OPTIONS	https://www.google.com	/
+20221026	08:57:18	a68239b1-3033-496e-823d-5387dd74a0f9	GET	https://www.google.com	/
+20221026	08:59:23	17f091b4-9e3d-407a-be76-17bf3d87719f	OPTIONS	https://www.google.com	/
+20221026	08:59:23	97bd67a6-1fa8-4559-af94-89bf9113d62b	GET	https://www.google.com	/
+20221026	09:00:36	8e114104-5bbb-4c78-8e40-8873ab4d5ec8	GET	https://www.google.com	/
+20221026	09:00:38	863d0f16-58e5-42d9-880f-790e0313c97a	OPTIONS	https://www.google.com	/
+20221026	09:00:38	f4ca9819-2c4f-4cc0-9e61-c0a2f07ce7eb	GET	https://www.google.com	/
+20221026	09:06:28	21bf168b-f541-4d7e-8870-db6e3e2de800	OPTIONS	https://www.google.com	/
+20221026	09:06:28	9a57139c-8972-40f0-91d0-2216f42f4209	GET	https://www.google.com	/
+20221026	09:06:40	10444085-34f4-4f04-ad19-b14ce97bf62f	OPTIONS	https://www.google.com	/
+20221026	09:06:40	a0779b78-a0b9-46bd-88c5-711f887549aa	GET	https://www.google.com	/
+20221026	09:06:43	39792a93-9731-449f-855f-78e008c72236	OPTIONS	https://www.google.com	/
+20221026	09:06:43	b5431c57-1b35-4070-b309-6be56d5ef027	GET	https://www.google.com	/
+20221026	09:07:59	3e858c06-ccb6-4827-9a50-41378d4065f5	OPTIONS	https://www.google.com	/
+20221026	09:07:59	0cf71184-c307-48fe-a3c1-012d2038f092	GET	https://www.google.com	/
+20221026	09:08:12	115c80b3-6cd0-4957-9b8e-5d46c87397c2	OPTIONS	https://www.naver.com	/
+20221026	09:08:12	579b1b91-b78e-4576-979f-cc9f34ca57ed	GET	https://www.naver.com	/
+20221026	09:09:38	2871f1d4-0c67-4845-876c-b40dc1613a26	GET	undefined	/
+20221026	09:10:16	b99a6f46-d791-4db8-ac4f-e73eb9516f05	GET	undefined	/
+20221026	09:10:16	c7b2f35c-f5ee-4a01-a16c-833bbf4bc6ba	GET	undefined	/css/style.css
+20221026	09:14:29	2140375e-d0bc-43ca-83b7-4ef2dfc4fe31	GET	undefined	/
+20221026	09:14:29	02a51017-afdf-4bb5-a866-9c9b66530631	GET	undefined	/css/style.css
+20221026	09:14:39	a11e012f-1476-42bf-bcef-7485d252b990	GET	undefined	/
+20221026	09:15:39	5baaeac3-3d31-4eb4-94f1-a7b5f1b84328	GET	undefined	/
+20221026	09:16:58	64b0388f-9411-41b1-a314-d4e5036d7006	GET	undefined	/
+20221026	09:18:31	e80aa9fa-224e-4d10-b882-5ac4ec39f73a	GET	undefined	/
+20221026	09:18:39	da7c518a-ea45-4034-a42e-c1f1ffed9133	GET	undefined	/
+20221026	09:19:20	7f69afa2-dae7-4ca5-8e53-35e129f14c67	GET	undefined	/
+20221026	09:19:30	5a1de828-4b33-4436-83de-235d5d079cb6	GET	undefined	/
+20221026	09:20:13	df2bc900-14ba-4cb3-9267-26cb64280647	GET	undefined	/dave
+20221026	09:20:25	dd4c8f2f-e643-4354-942d-bff009013858	GET	undefined	/dave
+20221026	09:20:25	c3e87508-6b9a-42e5-9213-50fd40610e54	GET	undefined	/css/style.css
+20221026	09:22:36	11c42885-628b-4ae9-8301-ecffcd0b8667	GET	undefined	/dave
+20221026	09:22:36	ac73cee0-c8fc-4077-9261-5b95dfead601	GET	undefined	/css/style.css
+20221026	09:23:23	cd2af9fd-0a24-479d-9f0e-d81e023d6de4	GET	undefined	/dave
+20221026	09:23:24	4aa07f72-101f-419a-b559-f370d4531a65	GET	undefined	/dave
+20221026	09:23:54	cda07708-524d-478f-aad7-b846d355eabf	GET	undefined	/dave
